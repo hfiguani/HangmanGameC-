@@ -1,0 +1,5 @@
+﻿  FunctionsLibrary.cpp
+c:\users\hafed\desktop\cit120\new labs\lastlabs\hangmangame\functionslibrary.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\hafed\desktop\cit120\new labs\lastlabs\hangmangame\functionslibrary.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  HangmanGame.vcxproj -> C:\Users\Hafed\Desktop\cit120\New labs\LastLabs\HangmanGame\Debug\HangmanGame.exe
+  HangmanGame.vcxproj -> C:\Users\Hafed\Desktop\cit120\New labs\LastLabs\HangmanGame\Debug\HangmanGame.pdb (Full PDB)
